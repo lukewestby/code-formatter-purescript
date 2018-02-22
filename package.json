@@ -4,6 +4,7 @@
     "description": "",
     "version": "0.0.1",
     "publisher": "lukewestby",
+    "repository": "https://github.com/lukewestby/code-formatter-purescript.git",
     "engines": {
         "vscode": "^1.6.0"
     },
